@@ -1,0 +1,748 @@
+"027 -- Taajamat väkiluvun ja väestöntiheyden mukaan 31.12.2012"
+
+"Taajama";"Väkiluku";"Maapinta-ala km²";"Väestöntiheys"
+"Ahde";362;2.11;171.6
+"Ahlainen";375;3.08;121.8
+"Ahola";1486;3.98;373.4
+"Ahonkylä";1657;4.88;339.5
+"Aitoo";416;2.31;180.1
+"Ajos";350;0.81;432.1
+"Akonpohja";287;1.25;229.6
+"Alahärmän kk.";2312;11.36;203.5
+"Alajärven kt.";5169;24.12;214.3
+"Alakylä";1455;8.63;168.6
+"Alapitkä";388;1.19;326.1
+"Alastaron kk.";1207;4.23;285.3
+"Alaveteli";821;5.44;150.9
+"Alavieskan kk.";1411;6.29;224.3
+"Alavuden as.seutu";1376;6.45;213.3
+"Alavuden kt.";4041;11.08;364.7
+"Alhopakka";445;3.31;134.4
+"Alikartano";259;0.90;287.8
+"Anttola";297;2.25;132.0
+"Anttolankylä";892;3.27;272.8
+"Arpela";296;1.69;175.1
+"Artjärven kk.";301;1.19;252.9
+"Asemakylä (Ii)";877;4.42;198.4
+"Asemakylä (Sievi)";230;1.10;209.1
+"Askaisten kk.";484;2.94;164.6
+"Askolan kk.";1291;5.49;235.2
+"Auran as.seutu";2644;7.22;366.2
+"Bergö";409;3.21;127.4
+"Björkboda";217;1.35;160.7
+"Björköby";294;2.75;106.9
+"Blinkan";226;1.25;180.8
+"Borgby";281;2.12;132.5
+"Bosund";935;2.86;326.9
+"Bromarv";200;0.89;224.7
+"Dagsmark";213;1.71;124.6
+"Dragsfjärdin kk.";656;5.02;130.7
+"Elimäen kk.";1382;4.19;329.8
+"Enon kk.";2020;4.25;475.3
+"Enonkosken kk.";623;1.90;327.9
+"Enontekiön kk.";555;3.31;167.7
+"Epaala";2681;8.34;321.5
+"Eskola";275;1.38;199.3
+"Eteläinen";621;3.24;191.7
+"Etelä-Paippinen";310;2.81;110.3
+"Eugmo";507;2.32;218.5
+"Eurajoen kk.";2586;6.97;371.0
+"Eurakoski";913;4.11;222.1
+"Euran kk.";6645;21.26;312.6
+"Evijärven kk.";955;4.27;223.7
+"Fiskari";446;2.32;192.2
+"Forsby";351;4.04;86.9
+"Forssan kt.";22048;36.67;601.3
+"Gesterby";283;2.50;113.2
+"Girsnäs";273;1.91;142.9
+"Godby";1234;6.09;202.6
+"Gåsgårdsträsket";213;0.50;426.0
+"Haapajoki - Arkkukari";709;4.88;145.3
+"Haapajärven kt.";4779;15.09;316.7
+"Haapamäki";933;4.25;219.5
+"Haapaveden kt.";4051;11.70;346.2
+"Haarahiltunen";397;0.89;446.1
+"Haavisto";208;0.95;218.9
+"Haikaperä";316;2.06;153.4
+"Hailuodon kk.";533;5.38;99.1
+"Haimoo";396;3.17;124.9
+"Halkia";435;4.38;99.3
+"Halkosaari";685;2.13;321.6
+"Halla - Tiutinen";375;0.45;833.3
+"Halli";1075;3.95;272.2
+"Halsuan kk.";509;2.97;171.4
+"Haminan kt.";16131;34.81;463.4
+"Hammasjärvi";218;2.17;100.5
+"Hammaslahti";1592;4.40;361.8
+"Hangon kt.";8273;13.63;607.0
+"Hankasalmen as.seutu";925;3.21;288.2
+"Hankasalmen kk.";1329;3.08;431.5
+"Haraldsby";241;1.13;213.3
+"Harrström";227;1.81;125.4
+"Hartolan kk.";1734;5.22;332.2
+"Hauhon kk.";1174;2.73;430.0
+"Haukivuoren as.seutu";847;2.68;316.0
+"Hausjärven kk.";1085;2.88;376.7
+"Heikkilä";724;2.44;296.7
+"Heinlammi";204;1.62;125.9
+"Heinolan kk.";2470;5.59;441.9
+"Heinolan kt.";15070;16.29;925.1
+"Heinävaara";522;2.05;254.6
+"Heinäveden kk.";1543;3.80;406.1
+"Helsingin kt.";1176976;640.46;1837.7
+"Hepola";1878;3.31;567.4
+"Herrala";504;2.81;179.4
+"Herunen";561;1.19;471.4
+"Hiltulanlahti";231;1.69;136.7
+"Himangan kk.";1830;6.38;286.8
+"Hinnerjoki";375;2.63;142.6
+"Hinthaara";878;3.53;248.7
+"Hirsilä";401;2.13;188.3
+"Hirvaskangas";339;1.61;210.6
+"Hirvensalmen kk.";882;1.63;541.1
+"Hollolan kk.";582;3.43;169.7
+"Honkajoen kk.";807;3.07;262.9
+"Huhmari";347;2.88;120.5
+"Huittula";361;1.75;206.3
+"Humppilan as.seutu";1499;5.79;258.9
+"Huttukylä";312;1.72;181.4
+"Hyrynsalmen kk.";1401;3.61;388.1
+"Hyvinkään kt.";42364;34.75;1219.1
+"Hähkänä";992;2.56;387.5
+"Häijää";389;1.69;230.2
+"Häiviä";200;1.94;103.1
+"Häkinkorva";206;0.88;234.1
+"Hälsingby";881;3.65;241.4
+"Hämeenkoski";1071;3.78;283.3
+"Hämeenlinnan kt.";49462;46.33;1067.6
+"Ihode";634;4.00;158.5
+"Iin Hamina";6312;19.80;318.8
+"Iisalmen kt.";15612;18.48;844.8
+"Iitiä";214;1.31;163.4
+"Iittala";2398;6.51;368.4
+"Ikaalisten kt.";4072;6.38;638.2
+"Ikkala";242;1.62;149.4
+"Ilmajoen kk.";7452;33.98;219.3
+"Ilola";336;2.54;132.3
+"Ilomantsin kk.";3011;7.10;424.1
+"Imatran kt.";29124;54.68;532.6
+"Inarin kk.";508;1.95;260.5
+"Inkere";691;2.06;335.4
+"Inkeroinen";5335;13.35;399.6
+"Inkoon kk.";2176;7.72;281.9
+"Irjanne";292;2.41;121.2
+"Isnäs";270;1.35;200.0
+"Isojoen kk.";856;3.69;232.0
+"Isokoski";395;2.94;134.4
+"Isokylä - Kallaanvaara";1013;4.38;231.3
+"Isokyrön kk.";2455;11.94;205.6
+"Iso-Vimma";579;3.51;165.0
+"Itäkylä";218;2.63;82.9
+"Ivalo";3131;7.41;422.5
+"Jaalan kk.";627;2.06;304.4
+"Jalasjärven kk.";3385;9.30;364.0
+"Janakkalan kk.";277;1.75;158.3
+"Jepuan as.seutu";466;2.90;160.7
+"Joensuun kt.";64108;68.57;934.9
+"Jokela (Kouvola)";6014;10.67;563.6
+"Jokela (Tuusula)";6225;8.81;706.6
+"Jokikylä";325;3.90;83.3
+"Jokimaa - Västra";337;1.44;234.0
+"Jokipii";303;1.72;176.2
+"Joroisten kk.";1956;5.11;382.8
+"Joutsan kk.";2426;5.57;435.5
+"Joutsenon kk.";6992;15.77;443.4
+"Juankosken kirkons.";2241;5.74;390.4
+"Jurvan kk.";2018;9.13;221.0
+"Juuan kk.";2468;6.93;356.1
+"Juvan kk.";3440;6.86;501.5
+"Jyrinki";306;2.40;127.5
+"Jyväskylän kt.";117974;99.25;1188.7
+"Jäkärlä";3646;7.56;482.3
+"Jämijärven kk.";729;3.00;243.0
+"Jämsän kt.";13605;30.57;445.0
+"Jäppilän kk.";326;1.11;293.7
+"Järvensuu";1016;2.54;400.0
+"Järvikylä (Nivala)";399;2.88;138.5
+"Järvikylä (Sievi)";342;2.44;140.2
+"Kaanaa";1039;4.39;236.7
+"Kaasmarkku";249;1.55;160.6
+"Kaavin kk.";1427;3.14;454.5
+"Kainasto";222;2.38;93.3
+"Kaipiaisten as.seutu";253;1.75;144.6
+"Kaipola";1194;5.30;225.3
+"Kaivola";944;2.44;386.9
+"Kajaanin kt.";30484;27.90;1092.6
+"Kakkuri";255;2.54;100.4
+"Kalajoen hiekkasärkät";694;5.25;132.2
+"Kalajoen kk.";6515;21.31;305.7
+"Kalanti";1181;3.47;340.3
+"Kangas";259;2.00;129.5
+"Kangaslammin kk.";278;0.77;361.0
+"Kangasniemen kk.";2891;5.72;505.4
+"Kankaanpää";573;3.33;172.1
+"Kankaanpään kt.";7933;15.02;528.2
+"Kannonkosken kk.";566;2.03;278.8
+"Kannuksen kt.";3856;12.04;320.3
+"Kapellby";767;2.67;287.3
+"Karijoen kk.";579;3.38;171.3
+"Karjaan kt.";8061;13.93;578.7
+"Karjalohjan kk.";598;2.84;210.6
+"Karkkilan kt.";7627;15.29;498.8
+"Karkku";546;2.97;183.8
+"Karstulan kk.";2170;4.91;442.0
+"Karttulan kk.";882;2.81;313.9
+"Karunki";483;2.12;227.8
+"Karvian kk.";827;2.80;295.4
+"Kaskisten kt.";1372;2.78;493.5
+"Kasuri";335;1.79;187.2
+"Kattby";350;1.63;214.7
+"Kauhajoen kt.";8946;32.20;277.8
+"Kauhavan kt.";5629;19.88;283.1
+"Kaukas";214;0.68;314.7
+"Kaukjärvi";254;2.33;109.0
+"Kaukonen";245;1.91;128.3
+"Kausala";3882;9.06;428.5
+"Kaustisen kk.";4434;19.78;224.2
+"Keiteleen kk.";1216;3.25;374.2
+"Kemie";1589;4.56;348.5
+"Kemijärven kt.";4570;9.53;479.5
+"Kemin kt.";27973;49.23;568.2
+"Kemiön kk.";1347;6.06;222.3
+"Kepola - Pajula";774;4.44;174.3
+"Kerimäen kk.";2447;5.20;470.6
+"Kerkkoo";745;4.25;175.3
+"Keskikylä (Alajärvi)";673;3.80;177.1
+"Keskikylä (Siikajoki)";480;2.44;196.7
+"Kestilän kk.";607;2.37;256.1
+"Kesälahden kk.";1012;3.12;324.4
+"Keuruun kt.";6329;8.42;751.7
+"Kierälahti";447;1.81;247.0
+"Kihniön kk.";734;2.51;292.4
+"Kiihtelysvaaran kk.";633;1.88;336.7
+"Kiikalan kk.";287;1.13;254.0
+"Kiikka";1262;5.65;223.4
+"Kiikoisten kk.";487;3.25;149.8
+"Kiimingin kk.";5412;14.46;374.3
+"Kilpilahti";529;4.44;119.1
+"Kilvakkala";300;1.38;217.4
+"Kinnulan kk.";878;3.18;276.1
+"Kinnulanlahti";231;1.81;127.6
+"Kintaus";261;1.38;189.1
+"Kipuksenkulma";200;1.50;133.3
+"Kirkkoaho";656;4.05;162.0
+"Kirkkonummen kk.";19292;35.97;536.3
+"Kiteen kt.";4910;9.24;531.4
+"Kittilän kk.";2331;4.55;512.3
+"Kitula";610;2.29;266.4
+"Kiuruveden kt.";4489;7.20;623.5
+"Kivijärven kk.";665;2.41;275.9
+"Kiviniemenmäki";202;1.50;134.7
+"Klamila";295;2.69;109.7
+"Klaukkala";4215;21.17;199.1
+"Knivsund";249;1.99;125.1
+"Knuuttila";359;3.87;92.8
+"Kodisjoen kk.";354;2.38;148.7
+"Kokemäen kt.";4619;15.24;303.1
+"Kokkolan kt.";35587;46.26;769.3
+"Kolarin kk.";1189;3.90;304.9
+"Kolho";718;2.91;246.7
+"Kolla";551;4.94;111.5
+"Kolmiranta";641;2.83;226.5
+"Kolppi";3088;14.42;214.1
+"Konginkangas";535;1.45;369.0
+"Konneveden kk.";1124;3.65;307.9
+"Kontiolahden kk.";3405;8.67;392.7
+"Kontiomäki";476;1.94;245.4
+"Koria";4035;7.62;529.5
+"Korkeakoski";900;4.16;216.3
+"Koroiskylä";320;3.37;95.0
+"Korpilahden kk.";2521;6.84;368.6
+"Korppoon kk.";252;1.76;143.2
+"Korsnäsin kk.";730;3.38;216.0
+"Kortesjärven kk.";689;3.44;200.3
+"Kosken kk.";1256;3.99;314.8
+"Koskenkylä (Loviisa)";1070;4.04;264.9
+"Koskenkylä (Vesilahti)";334;1.75;190.9
+"Koski";390;1.93;202.1
+"Koskö";290;2.11;137.4
+"Kotkan kt.";52922;68.87;768.4
+"Kouvolan kt.";49813;61.18;814.2
+"Kristiinankaupungin kt.";2809;6.44;436.2
+"Kruunupyyn kk.";1740;9.16;190.0
+"Kuggom";296;3.06;96.7
+"Kuhmalahden kk.";345;2.75;125.5
+"Kuhmoisten kk.";1396;4.36;320.2
+"Kuhmon kt.";5827;9.00;647.4
+"Kulho";651;4.90;132.9
+"Kuluntalahti";412;1.53;269.3
+"Kunnarla";294;2.24;131.3
+"Kuohu";380;1.97;192.9
+"Kuopion kt.";83454;46.07;1811.5
+"Kuortaneen kk.";1333;4.56;292.3
+"Kuortti";273;1.80;151.7
+"Kurenalus";4182;8.18;511.2
+"Kurikan kt.";6198;20.21;306.7
+"Kurkimäki";675;1.97;342.6
+"Kurun kk.";1065;3.49;305.2
+"Kustavin kk.";328;1.57;208.9
+"Kuukanniemi";676;1.33;508.3
+"Kuusa";282;2.16;130.6
+"Kuusamon kt.";8726;16.03;544.4
+"Kuusjoen kk.";501;1.81;276.8
+"Kuuslahti";227;1.87;121.4
+"Kuvansi";1035;3.47;298.3
+"Kylmäkosken kirkons.";673;2.26;297.8
+"Kyläsaari";6791;18.20;373.1
+"Kyrö";1730;5.38;321.6
+"Kyröskoski";6830;16.22;421.1
+"Kyyjärven kk.";837;3.56;235.1
+"Kälviän kirkons.";2408;8.55;281.6
+"Kämmenniemi";835;1.16;719.8
+"Kärjenniemi";568;2.35;241.7
+"Kärkölän kk.";2866;8.51;336.8
+"Kärsämäen kk.";1236;4.87;253.8
+"Käärmelahti";377;2.17;173.7
+"Lahden kt.";116549;108.61;1073.1
+"Laihian kk.";6508;22.75;286.1
+"Laitilan kt.";5325;16.38;325.1
+"Lammala";210;1.41;148.9
+"Lammin kk.";3026;5.99;505.2
+"Lampinsaari";293;0.69;424.6
+"Langansböle";887;2.38;372.7
+"Lapijoki";845;3.97;212.8
+"Lapin kk.";1575;5.92;266.0
+"Lapinkylä";682;5.45;125.1
+"Lapinlahden kk.";3691;7.15;516.2
+"Lappajärven kk.";1483;6.32;234.7
+"Lappeenrannan kt.";54567;54.09;1008.8
+"Lappila";293;1.56;187.8
+"Lappohja";552;2.01;274.6
+"Lapuan kt.";10548;26.28;401.4
+"Lapväärtti";1589;10.77;147.5
+"Laukaan kk.";7611;17.72;429.5
+"Laukkoski";389;3.18;122.3
+"Launonen";1284;4.38;293.2
+"Lauttakylä";6743;20.71;325.6
+"Lavian kk.";874;2.93;298.3
+"Leivonmäen kk.";405;1.56;259.6
+"Lemin kk.";686;1.37;500.7
+"Lempiskallio";257;1.69;152.1
+"Lemun kk.";1276;5.38;237.2
+"Lepaa";232;1.47;157.8
+"Leppäkoski";326;1.77;184.2
+"Leppälampi";244;2.31;105.6
+"Leppävesi";2771;6.31;439.1
+"Leppävirran kk.";4419;8.15;542.2
+"Lestijärven kk.";302;1.05;287.6
+"Liedon as.seutu";1089;4.06;268.2
+"Lieksan kt.";7822;15.09;518.4
+"Lievestuore";2380;6.90;344.9
+"Liljendalin kk.";479;3.26;146.9
+"Lillby";353;2.32;152.2
+"Limingan kk.";4712;10.36;454.8
+"Linna";228;2.23;102.2
+"Liperin kk.";1524;3.46;440.5
+"Lohjan kt.";33484;43.83;764.0
+"Lohtajan kk.";814;4.94;164.8
+"Loimaan kt.";9007;17.52;514.1
+"Lokalahti";384;1.63;235.6
+"Lopen kk.";2291;7.00;327.3
+"Louhioja";201;1.50;134.0
+"Loviisan kt.";7231;12.63;572.5
+"Lumijoen kk.";1237;4.31;287.0
+"Luoma-aho";253;1.93;131.1
+"Luopa";277;3.10;89.4
+"Luopioisten kk.";633;2.18;290.4
+"Luumäen as.seutu";821;3.26;251.8
+"Långvik";444;3.51;126.5
+"Länkipohja";579;2.54;228.0
+"Läyliäinen";925;3.06;302.3
+"Maalahden kk.";2901;17.09;169.7
+"Maaningan kk.";988;2.48;398.4
+"Maarianhaminan kt.";13357;18.81;710.1
+"Mahnala";212;1.25;169.6
+"Maksamaan kk.";326;2.26;144.2
+"Maksniemi";666;2.38;279.8
+"Maliskylä";291;2.75;105.8
+"Marinkainen";600;3.00;200.0
+"Marttilan kk.";858;3.70;231.9
+"Maskun kk.";4740;11.59;409.0
+"Meijerinkylä";264;1.69;156.2
+"Melalahti";827;1.27;651.2
+"Mellilän as.seutu";482;1.80;267.8
+"Merijärven kk.";475;2.02;235.1
+"Merikaarto";1192;4.73;252.0
+"Merikarvian kk.";1832;9.47;193.5
+"Metsäkylä";279;3.02;92.4
+"Miehikkälän kk.";616;2.31;266.7
+"Mikkelin kt.";35967;35.59;1010.6
+"Moikipää";498;2.73;182.4
+"Monninkylä";1335;4.06;328.8
+"Muhoksen kk.";6926;23.85;290.4
+"Multian kk.";840;2.53;332.0
+"Munakka";200;2.00;100.0
+"Munsala";297;2.31;128.6
+"Muonion kk.";1226;4.77;257.0
+"Murto";1498;3.13;478.6
+"Mustion asema";674;1.75;385.1
+"Mustion ruukki";219;2.10;104.3
+"Muuramen kk.";7025;12.40;566.5
+"Muurlan kk.";930;3.26;285.3
+"Muurola";988;2.90;340.7
+"Muuruvesi";371;1.31;283.2
+"Myllykoski";6219;16.04;387.7
+"Myllymäki";265;1.85;143.2
+"Mynämäen kk.";3996;13.19;303.0
+"Myrskylän kk.";893;4.15;215.2
+"Mäntsälän kk.";10992;16.92;649.6
+"Mäntyharjun as.seutu";4032;10.24;393.8
+"Mäntyluoto";432;1.84;234.8
+"Mäntän kt.";8240;17.80;462.9
+"Märynummi";1039;1.94;535.6
+"Mäyry";212;1.70;124.7
+"Mökkikylä";200;0.56;357.1
+"Mörby";270;2.44;110.7
+"Narva";468;1.92;243.8
+"Nastolan kk.";12285;23.71;518.1
+"Nauvon kk.";459;1.65;278.2
+"Nerkoo";209;1.05;199.0
+"Neuvoton";1397;4.93;283.4
+"Niemenkylä";280;2.31;121.2
+"Niemisjärvi";348;1.61;216.1
+"Nihattula";418;2.53;165.2
+"Niinisalo";495;2.08;238.0
+"Niittumaa";754;6.63;113.7
+"Nilsiän kt.";3208;7.04;455.7
+"Nivalan kt.";5429;17.12;317.1
+"Nivankylä";349;1.87;186.6
+"Noormarkun kk.";4388;9.98;439.7
+"Nostava";573;2.19;261.6
+"Nuijamaa";255;1.04;245.2
+"Nukari";387;2.81;137.7
+"Nummela";13275;18.66;711.4
+"Nummen kk.";524;2.31;226.8
+"Nummi";3165;12.94;244.6
+"Numminen";201;2.44;82.4
+"Nurmeksen kt.";5348;12.34;433.4
+"Nurmijärven kk.";7127;10.19;699.4
+"Nuutajärvi";208;0.81;256.8
+"Nämpnäs";232;2.54;91.3
+"Närpiön kt.";3937;19.84;198.4
+"Närvijoki";204;2.00;102.0
+"Oinasjoki";201;1.06;189.6
+"Oitti";1999;5.26;380.0
+"Ojakkala";1441;4.15;347.2
+"Ojakylä";285;1.75;162.9
+"Oksava";276;2.25;122.7
+"Olkijoki";216;1.63;132.5
+"Olkkala";247;2.43;101.6
+"Oravaisten kk.";1205;6.84;176.2
+"Oravikoski";368;1.46;252.1
+"Orimattilan kt.";9192;16.69;550.7
+"Oripään kk.";744;2.88;258.3
+"Oritlampi";227;1.59;142.8
+"Oriveden kt.";6310;13.71;460.2
+"Otalampi";997;4.96;201.0
+"Otanmäki";695;1.50;463.3
+"Otava";1495;4.52;330.8
+"Oulaisten kt.";5626;13.68;411.3
+"Oulun kt.";188279;192.07;980.3
+"Outokummun kt.";4937;10.60;465.8
+"Paatela";376;1.79;210.1
+"Paattinen";1006;4.75;211.8
+"Paavola";487;1.44;338.2
+"Padasjoen kk.";1649;5.98;275.8
+"Paihola";223;0.92;242.4
+"Paimion kt.";8162;16.09;507.3
+"Palojoki";327;2.44;134.0
+"Paltamon kk.";1760;6.08;289.5
+"Paltaniemi";324;2.50;129.6
+"Panelia";934;6.67;140.0
+"Pankakoski";749;2.68;279.5
+"Paraisten kt.";9667;26.17;369.4
+"Parhalahti";282;2.69;104.8
+"Parikkalan kk.";1722;4.14;415.9
+"Parkanon kt.";4565;13.70;333.2
+"Parola";6711;15.98;420.0
+"Pelkosenniemen kk.";374;1.56;239.7
+"Pellesmäki - Vehmasmäki";505;4.19;120.5
+"Pellon kk.";1990;6.87;289.7
+"Pellosniemi";358;1.62;221.0
+"Peltokorpi";468;3.13;149.5
+"Peltosalmi";770;2.92;263.7
+"Pennala";823;3.69;223.0
+"Perhon kk.";886;3.18;278.6
+"Pernajan kk.";484;2.19;221.0
+"Perniön as.seutu";248;1.69;146.7
+"Perniön kk.";2479;5.69;435.7
+"Pertunmaan kk.";490;2.06;237.9
+"Perälä";443;5.10;86.9
+"Peräseinäjoen kk.";1629;7.95;204.9
+"Petolahti";604;4.00;151.0
+"Petsmo";369;3.10;119.0
+"Petäjäveden kk.";1872;5.67;330.2
+"Piehinki";393;3.17;124.0
+"Pieksämäen kt.";13889;18.01;771.2
+"Pielaveden kk.";2093;3.92;533.9
+"Pietarsaaren kt.";20976;26.86;780.9
+"Pihkainmäki";435;1.81;240.3
+"Pihtiputaan kk.";2017;5.91;341.3
+"Piippolan kk.";565;2.63;214.8
+"Pirttikylä";419;3.11;134.7
+"Pohjakylä";456;2.11;216.1
+"Pohjan kk.";2153;6.65;323.8
+"Poikko";217;1.54;140.9
+"Polvijärven kk.";1460;4.58;318.8
+"Pomarkun kk.";1414;5.30;266.8
+"Porin kt.";84442;120.01;703.6
+"Pornaisten kk.";2074;6.39;324.6
+"Porvoon kt.";36968;47.24;782.6
+"Puhos";224;0.81;276.5
+"Pukkilan kk.";811;2.38;340.8
+"Pulkkilan kk.";824;3.70;222.7
+"Punkalaitumen kk.";1301;4.92;264.4
+"Punkasalmi";1443;2.68;538.4
+"Puolangan kk.";1624;3.63;447.4
+"Purmo";330;3.38;97.6
+"Purola - Svartbäck";281;2.40;117.1
+"Pusulan kylä";805;1.92;419.3
+"Puuluoto";284;0.75;378.7
+"Puumalan kk.";1214;3.27;371.3
+"Pyhtään kk.";701;3.45;203.2
+"Pyhä";317;2.03;156.2
+"Pyhäjoen kk.";1661;5.22;318.2
+"Pyhäniemi";260;1.87;139.0
+"Pyhännän kk.";839;2.09;401.4
+"Pyhäsalmi";2695;6.65;405.3
+"Pylkönmäen kk.";316;1.19;265.5
+"Pännäinen";952;5.86;162.5
+"Päntäne";227;1.50;151.3
+"Pöljä";413;3.79;109.0
+"Raahen kt.";19194;39.90;481.1
+"Raippaluoto";718;3.94;182.2
+"Rajamäki";6295;13.16;478.3
+"Rangsby";277;1.63;169.9
+"Rantasalmen kk.";1558;3.67;424.5
+"Rantsilan kk.";870;3.37;258.2
+"Ranuan kk.";2026;4.93;411.0
+"Rasila";2764;6.05;456.9
+"Rauman kt.";33533;51.57;650.2
+"Rautalammin kk.";1642;4.69;350.1
+"Rautavaaran kk.";792;2.24;353.6
+"Rautio";379;2.34;162.0
+"Rautionsaari";1089;5.94;183.3
+"Rautioranta";200;1.31;152.7
+"Rautjärven as.seutu";235;1.21;194.2
+"Reijola";3074;6.76;454.7
+"Reisjärven kk.";1224;4.15;294.9
+"Rengon kk.";1156;4.07;284.0
+"Renum - Jackarby";274;2.69;101.9
+"Reposaari";840;1.54;545.5
+"Revonlahti";422;2.37;178.1
+"Riihikoski";1585;5.56;285.1
+"Riihimäen kt.";28065;28.60;981.3
+"Riskunmäki";208;0.81;256.8
+"Ristiinan kk.";2311;4.18;552.9
+"Ristijärven kk.";626;2.19;285.8
+"Risö Häll";2488;8.45;294.4
+"Rova";298;0.63;473.0
+"Rovaniemen kt.";50842;55.70;912.8
+"Ruotanen";477;2.25;212.0
+"Ruotsalo - Peitso";295;2.10;140.5
+"Ruotsinpyhtään kk.";496;1.97;251.8
+"Ruoveden kk.";2050;5.79;354.1
+"Ruukki";1228;4.39;279.7
+"Ruutana";3372;9.40;358.7
+"Rymättylän kk.";824;2.44;337.7
+"Ryttylä";1683;3.81;441.7
+"Rääkkylän kk.";686;2.31;297.0
+"Röykkä";1649;3.75;439.7
+"Saarijärven kt.";5290;13.01;406.6
+"Saariselkä";296;2.19;135.2
+"Sahalahden kk.";1221;3.28;372.3
+"Saimaanharju";1911;2.89;661.2
+"Sallan kk.";1787;3.79;471.5
+"Salon kt.";30444;37.64;808.8
+"Sammatin kk.";899;3.97;226.4
+"Saukkola";1057;4.36;242.4
+"Sauvon kk.";1253;3.94;318.0
+"Savijärvi";227;1.31;173.3
+"Savitaipaleen kk.";1935;5.85;330.8
+"Savonlinnan kt.";23135;22.67;1020.5
+"Savonrannan kk.";466;1.93;241.5
+"Savukosken kk.";446;2.25;198.2
+"Seinäjoen kt.";46639;52.78;883.6
+"Sieppijärvi";240;1.41;170.2
+"Sievin kk.";1868;4.53;412.4
+"Siikaisten kk.";504;2.04;247.1
+"Siilinjärven kk.";11341;21.74;521.7
+"Siltakylä";2851;10.39;274.4
+"Simon as.seutu";890;3.07;289.9
+"Simon kk.";234;1.68;139.3
+"Simpele";1907;5.03;379.1
+"Sinettä";478;2.24;213.4
+"Sippola";200;1.47;136.1
+"Sirkka";817;8.80;92.8
+"Sitlahdenkylä";1905;7.31;260.6
+"Siuntion as.seutu";2214;3.43;645.5
+"Siuntion kk.";373;1.88;198.4
+"Siuro";2435;5.29;460.3
+"Sodankylän kk.";5192;12.33;421.1
+"Soinin kk.";1074;3.90;275.4
+"Soinlahti";257;2.58;99.6
+"Soklot";267;2.06;129.6
+"Someron kt.";5106;12.19;418.9
+"Sonkajärven kk.";1448;2.90;499.3
+"Sorsakoski";814;2.48;328.2
+"Sotkia";225;1.69;133.1
+"Storby";399;2.38;167.6
+"Stormi";258;1.93;133.7
+"Störsvik";287;1.42;202.1
+"Sukeva";420;1.82;230.8
+"Sulkavan kk.";1234;3.30;373.9
+"Sumiaisten kk.";453;1.35;335.6
+"Sundom";3629;15.84;229.1
+"Suolahden kt.";4553;8.59;530.0
+"Suomenlinna";756;0.62;1219.4
+"Suomussalmen kk.";959;2.18;439.9
+"Suonenjoen kt.";5356;12.06;444.1
+"Syrjäntaka";556;2.37;234.6
+"Sysmän kk.";2138;5.96;358.7
+"Syvänniemi";243;1.29;188.4
+"Säkylän kk.";3169;9.55;331.8
+"Sälinkää";259;1.63;158.9
+"Särkisalmi";446;2.56;174.2
+"Säyneinen";222;1.28;173.4
+"Sääksjärvi";258;2.47;104.5
+"Söderby";531;3.76;141.2
+"Söderkulla";7622;35.83;212.7
+"Söyrylä";212;1.88;112.8
+"Söörmarkku";578;2.94;196.6
+"Taalintehdas";1240;3.81;325.5
+"Taavetti";2168;5.00;433.6
+"Taipalsaaren kk.";862;2.39;360.7
+"Taivalkosken kk.";2001;5.10;392.4
+"Taivassalon kk.";658;2.88;228.5
+"Takamaa";525;3.05;172.1
+"Tammisaaren kt.";8756;11.96;732.1
+"Tampereen kt.";317316;265.86;1193.5
+"Tarvasjoen kk.";885;3.61;245.2
+"Tavastila";566;3.79;149.3
+"Teerijärvi";963;4.70;204.9
+"Teijo";379;2.17;174.7
+"Tenhola";761;2.94;258.8
+"Teponmäki";378;3.00;126.0
+"Tervakoski";4151;7.95;522.1
+"Tervola2";228;1.75;130.3
+"Tervolan kk.";1105;3.17;348.6
+"Tervon kk.";574;1.72;333.7
+"Tesjoki";961;2.68;358.6
+"Teuvan kk.";2976;15.46;192.5
+"Tiistenjoki";245;2.04;120.1
+"Tikkakoski";4345;5.75;755.7
+"Tiukka";220;1.68;131.0
+"Toholammin kk.";1651;7.29;226.5
+"Toija";551;1.91;288.5
+"Toijalan kt.";8376;15.68;534.2
+"Toivakan kk.";1005;2.78;361.5
+"Toivala - Vuorela";5452;9.27;588.1
+"Tolpanniemi";1296;2.06;629.1
+"Tornion kt.";17196;34.83;493.7
+"Träskby";592;5.15;115.0
+"Tupos";2734;4.06;673.4
+"Turenki";7804;13.72;568.8
+"Turun kt.";254671;254.62;1000.2
+"Tuunaansaari";210;1.16;181.0
+"Tuupovaaran kk.";592;2.05;288.8
+"Tuuri";773;3.94;196.2
+"Tuusniemen kk.";1086;2.85;381.1
+"Tyrnävän kk.";2843;6.94;409.7
+"Töysän kk.";922;4.03;228.8
+"Uimaharju";1529;5.69;268.7
+"Untamala";339;3.37;100.6
+"Uotsola";1093;3.66;298.6
+"Urjalan kk.";2453;8.11;302.5
+"Utajärven kk.";1385;4.60;301.1
+"Utsjoen kk.";337;1.58;213.3
+"Utti";445;2.42;183.9
+"Uudenkaarlepyyn kt.";3286;6.87;478.3
+"Uudenkaupungin kt.";10029;17.46;574.4
+"Uuraisten kk.";1121;3.94;284.5
+"Vaalan kk.";1349;2.84;475.0
+"Vaasan kt.";65414;66.65;981.5
+"Vahdon kk.";1117;3.63;307.7
+"Valkeakosken kt.";17141;19.23;891.4
+"Vallgrund";539;5.06;106.5
+"Valtimon kk.";1128;3.45;327.0
+"Vammalan kt.";10289;18.20;565.3
+"Vampulan kk.";485;2.41;201.2
+"Varkauden kt.";20275;31.75;638.6
+"Varpaisjärven kk.";1221;3.16;386.4
+"Vartsala";251;1.25;200.8
+"Vasarainen";400;3.69;108.4
+"Vasarla";282;1.94;145.4
+"Vaskiluoto";349;2.46;141.9
+"Vaskio";309;1.44;214.6
+"Vastamäki";555;3.41;162.8
+"Vattukylä";243;1.75;138.9
+"Vaulammi";205;1.81;113.3
+"Vehmersalmen kk.";607;1.12;542.0
+"Veikkaala";207;1.00;207.0
+"Veikkola";6500;19.64;331.0
+"Veneskoski";251;1.55;161.9
+"Vesala";692;2.01;344.3
+"Vesanka";796;4.43;179.7
+"Vesannon kk.";899;2.77;324.5
+"Vesilahden kk.";1617;4.24;381.4
+"Vesivehmaa";376;3.56;105.6
+"Vieremän kk.";1470;2.55;576.5
+"Vierumäki";442;2.44;181.1
+"Vihannin kk.";1209;3.47;348.4
+"Vihdin kk.";3654;5.56;657.2
+"Viialan kk.";5507;11.58;475.6
+"Viinijärvi";854;3.40;251.2
+"Viitasaaren kt.";3877;6.36;609.6
+"Viitikko";211;1.25;168.8
+"Vikby";443;3.88;114.2
+"Viljakkalan kk.";579;2.13;271.8
+"Vilniemi";509;1.26;404.0
+"Vimpelin kk.";2146;9.73;220.6
+"Vinkkilä";1062;6.12;173.5
+"Virenoja";258;2.27;113.7
+"Virojoki";1328;5.42;245.0
+"Virolainen";593;0.86;689.5
+"Virtain kt.";3809;9.49;401.4
+"Virtasalmen kk.";276;0.96;287.5
+"Virttaa";241;1.50;160.7
+"Visulahti";877;3.82;229.6
+"Visuvesi";371;1.96;189.3
+"Voolahti";277;1.89;146.6
+"Vuokatti";6187;12.28;503.8
+"Vuolijoen kk.";417;1.40;297.9
+"Vähäkangas";263;1.50;175.3
+"Vähäkyrön kk.";3578;18.97;188.6
+"Västerhankmo";1641;7.86;208.8
+"Vääksy";4961;8.74;567.6
+"Vöyrin kk.";1774;8.56;207.2
+"Ylihärmän kk.";2099;7.80;269.1
+"Yli-Iin kirkons.";726;2.39;303.8
+"Ylikiimingin kk.";375;1.47;255.1
+"Ylikylä";279;1.49;187.2
+"Ylimarkku";510;3.28;155.5
+"Yliskulma";233;2.13;109.4
+"Ylistaron kk.";2592;12.24;211.8
+"Ylitornion kk.";2092;6.67;313.6
+"Ylivieskan kt.";11721;26.59;440.8
+"Ylämaan kk.";445;1.80;247.2
+"Yläneen kk.";946;3.97;238.3
+"Yppäri";350;2.88;121.5
+"Ypäjän kk.";985;3.80;259.2
+"Äetsän kk.";2334;9.72;240.1
+"Ähtärin kt.";3649;7.31;499.2
+"Äkäslompolo";460;5.10;90.2
+"Ämmänsaari";4406;8.50;518.4
+"Äystö";280;2.38;117.6
+"Äänekosken kt.";8962;10.28;871.8
+"Ödkarby";344;2.71;126.9
+"Överesse";794;4.97;159.8

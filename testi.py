@@ -3,33 +3,33 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-st.header('st.write')
+st.header('Ville on mahtava')
 
-# Example 1
 
-st.write('Hello, *World!* :sunglasses:')
-
-# Example 2
-
-st.write(1234)
-
-# Example 3
-
-df = pd.DataFrame({
-     'first column': [1, 2, 3, 4],
-     'second column': [10, 20, 30, 40]
-     })
+df = pd.read_csv('taajamat20112023.csv',sep=",")
 st.write(df)
 
-# Example 4
 
-st.write('Below is a DataFrame:', df, 'Above is a dataframe.')
+a = alt.Chart(df).mark_line().encode(
+     x=alt.X('Vuosi',scale=alt.Scale(domain=[2010, 2025], clamp=True)),
+     y=alt.Y('Väkiluku',scale=alt.Scale(domain=[50000, 400000], clamp=True)),
+     color='Taajama'
+     )
 
-# Example 5
+st.write(a)
 
-df2 = pd.DataFrame(
-     np.random.randn(200, 3),
-     columns=['a', 'b', 'c'])
-c = alt.Chart(df2).mark_circle().encode(
-     x='a', y='b', size='c', color='c', tooltip=['a', 'b', 'c'])
+b = alt.Chart(df).mark_line().encode(
+     x=alt.X('Vuosi',scale=alt.Scale(domain=[2010, 2025], clamp=True)),
+     y=alt.Y('Maapinta-ala_km2',scale=alt.Scale(domain=[10, 500], clamp=True)),
+     color='Taajama'
+     )
+
+st.write(b)
+
+c = alt.Chart(df).mark_line().encode(
+     x=alt.X('Vuosi',scale=alt.Scale(domain=[2010, 2025], clamp=True)),
+     y=alt.Y('Väestöntiheys',scale=alt.Scale(domain=[500, 2000], clamp=True)),
+     color='Taajama'
+     )
+
 st.write(c)
